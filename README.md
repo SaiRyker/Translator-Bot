@@ -1,2 +1,2 @@
-Translator Telegram Bot with simple databse
+Translator Telegram Bot with simple database
  
